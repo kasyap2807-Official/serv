@@ -1,0 +1,123 @@
+**Prompt Engineering: Fast Learning Notes**
+
+---
+
+### 🔧 What is Prompt Engineering?
+
+Prompt Engineering is the practice of crafting effective inputs (called prompts) to communicate with AI systems like ChatGPT or other LLMs (Large Language Models) to get desired outputs.
+
+---
+
+### 🔍 Why Learn Prompt Engineering?
+
+* To get accurate and relevant responses from AI
+* To save time by getting the format/output you want
+* To turn ideas into code, content, or design with ease
+
+---
+
+### ✏️ Basic Prompt Structure
+
+**\[Action Verb] + \[Content/Subject] + \[Details/Style/Format]**
+
+**Examples:**
+
+* "Summarize this article in 5 bullet points."
+* "Explain OOP concepts in simple terms like for a 10-year-old."
+* "Generate a React component for a login form."
+
+---
+
+### 🎓 Prompting Tips
+
+1. **Be Specific**: The more details you provide, the better the output.
+2. **Use Clear Verbs**: Such as *explain*, *write*, *list*, *compare*, *generate*, *summarize*.
+3. **Add Context**: Like a grade level, target audience, or situation.
+4. **Define Output Format**: Want it in a table, code block, JSON, etc.
+5. **Refine in Iterations**: Ask follow-up prompts to improve results.
+
+---
+
+### 🔢 Types of Prompts
+
+| Type                | Example                                                |
+| ------------------- | ------------------------------------------------------ |
+| Instruction         | "Explain multithreading in Java."                      |
+| Input + Instruction | "Given this code, find the bug: \[code]"               |
+| Few-shot            | "Here are 2 examples. Now do the 3rd one."             |
+| Role-based          | "Act as a coding mentor and explain Git."              |
+| Chain-of-thought    | "Explain step-by-step how to solve this math problem." |
+
+---
+
+### 🔄 Prompt Patterns (Formulas)
+
+* **Do X like Y**: "Write a poem like Shakespeare."
+* **As a Role**: "Act as a UX designer and suggest improvements."
+* **With Constraints**: "List 5 startups under 100 words."
+* **Step-by-step**: "Give a step-by-step plan to build a todo app."
+* **Transform**: "Convert this paragraph into a tweet."
+
+---
+
+### ✨ Bonus Tips
+
+* Use bullet points or numbered lists for clarity.
+* You can paste large text/code and ask for summaries/fixes.
+* Ask the AI to question you back or verify your understanding.
+* Practice prompting like grammar exercises!
+
+---
+
+### 📅 Daily Practice Ideas
+
+* "Summarize a blog post you read."
+* "Generate 3 Instagram captions about productivity."
+* "Explain a tech topic like you would to a child."
+* "Write a Java function for X."
+
+---
+
+### 💡 Final Thoughts
+
+Prompting is both an art and a science. Just like learning a language, you get better with intentional practice. The better you prompt, the more useful the AI becomes for your goals.
+
+**Keep practicing — you're becoming fluent in the language of AI!** ✨
+
+---
+
+## 📘 Practice Questions (Like Grammar Exercises)
+
+### 🟢 Level 1: Easy
+
+1. What is the basic structure of a prompt?
+2. Write a prompt to ask ChatGPT to explain photosynthesis to a 5-year-old.
+3. Write a prompt to get a summary of a long article.
+
+### 🟡 Level 2: Medium
+
+4. Convert this sentence into a prompt: "I want a Python function to calculate area of circle."
+5. Write a prompt asking for a motivational quote in a poetic style.
+6. Create a role-based prompt to act as a career advisor.
+
+### 🔴 Level 3: Hard
+
+7. Write a prompt asking ChatGPT to compare two frameworks: Angular and React, in table format.
+8. Create a chain-of-thought prompt to solve a math problem: “If a train leaves at 10 AM and travels at 80 km/h…”
+9. Write a prompt that asks for a marketing email in under 50 words for a fictional app.
+
+---
+
+### 🔑 Answer Key
+
+1. Action + Content + Style/Format
+2. "Explain photosynthesis like you're talking to a 5-year-old."
+3. "Summarize this article in 5 bullet points."
+4. "Write a Python function to calculate the area of a circle."
+5. "Give me a motivational quote written like a poem."
+6. "Act as a career advisor and guide me on choosing between law and software."
+7. "Compare Angular and React in a table format for a beginner developer."
+8. "Solve this step-by-step: If a train leaves at 10 AM and travels at 80 km/h, how far will it go in 2.5 hours?"
+9. "Write a marketing email (under 50 words) for an app that helps people manage daily habits."
+
+---
