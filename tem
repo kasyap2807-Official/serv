@@ -27,3 +27,9 @@ docker login -u <username>
 docker tag node-demo:v1 krishna301/krishna 
 docker push krishna301/krishna
 docker pull krishna301/krishna
+
+
+
+
+
+ssh -i pemfile ec2-user@ip
