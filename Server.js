@@ -197,6 +197,10 @@ app.get('/performTask', async (req, res) => {
     }
 });
 
+app.get("/health",(req,res)=>{
+    res.json({"message":"i am hyealthy"})
+})
+
 
 setInterval(() => {
     axios.get(`https://portfolio-server-91pj.onrender.com/performTask`)
