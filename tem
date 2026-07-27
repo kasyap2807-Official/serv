@@ -1,0 +1,29 @@
+docker images
+docker build -t node-demo:v1 .
+docker ps
+docker ps -a
+docker run -d -p 3001:3001 --name backend node-demo:v1
+docker logs backend
+docker start backend
+docker stop backend
+docker restart backend
+docker rm backend
+docker rm -f backend
+docker rmi node-demo:v1
+docker container prune
+docker image prune
+docker system prune -ar
+
+
+
+docker compose up -d
+docker compose down
+
+
+
+
+docker login
+docker login -u <username>
+docker tag node-demo:v1 krishna301/krishna 
+docker push krishna301/krishna
+docker pull krishna301/krishna

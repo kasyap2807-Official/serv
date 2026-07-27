@@ -121,3 +121,5 @@ Prompting is both an art and a science. Just like learning a language, you get b
 9. "Write a marketing email (under 50 words) for an app that helps people manage daily habits."
 
 ---
+
+
